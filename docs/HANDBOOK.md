@@ -169,6 +169,9 @@
 
 处理用户问题时：
 
+- 先判断属于新需求、软件问题还是其他事项，并引导到对应 GitHub 入口。
+- 要求需求写清背景、目标、使用场景、验收标准、范围和隐私影响。
+- 要求问题写清环境、前置条件、复现步骤、实际结果、期望结果、频率和影响。
 - 优先索取复现步骤、浏览器版本和脱敏截图。
 - 不索取完整备份来解决一般界面问题。
 - 不要求用户发送 Cookie、Token、OAuth 回调 URL 或 Secret。
@@ -239,6 +242,7 @@
 
 - 项目主页：<https://github.com/mulspace/ftree>
 - 项目 Wiki：<https://github.com/mulspace/ftree/wiki>
+- 支持与反馈：[../SUPPORT.md](../SUPPORT.md)
 - 用户指南：[USER_GUIDE.md](USER_GUIDE.md)
 - 隐私说明：[PRIVACY.md](PRIVACY.md)
 

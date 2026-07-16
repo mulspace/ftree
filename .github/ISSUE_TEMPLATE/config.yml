@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 其他咨询与使用交流
+    url: https://github.com/mulspace/ftree/wiki/其他列表
+    about: 非新需求、非软件故障的事项，请在 Wiki 其他列表中登记。

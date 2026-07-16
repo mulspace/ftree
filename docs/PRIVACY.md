@@ -160,4 +160,4 @@ Google 仍会根据其账户、OAuth 和 Drive 服务规则处理相关数据。
 
 ## 14. 联系与反馈
 
-隐私说明和安全使用建议通过 <https://github.com/mulspace/ftree/wiki> 发布。公开反馈中不得包含真实家谱数据或任何凭据。
+新需求通过[需求 Issue](https://github.com/mulspace/ftree/issues/new?template=feature_request.yml)提交，软件问题通过[问题 Issue](https://github.com/mulspace/ftree/issues/new?template=bug_report.yml)提交，其他隐私和使用咨询在 Wiki [其他列表](https://github.com/mulspace/ftree/wiki/其他列表)登记。公开反馈中不得包含真实家谱数据或任何凭据，详细要求见[支持与反馈](../SUPPORT.md)。

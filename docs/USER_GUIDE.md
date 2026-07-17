@@ -1,6 +1,6 @@
 # fTree 完整用户操作指南
 
-本文说明私人空间版的日常操作。网站地址：<https://home.ftree.club/about>。
+本文说明私人空间版的日常操作。网站地址：<https://home.ftree.club>。
 
 ## 1. 运行环境
 
